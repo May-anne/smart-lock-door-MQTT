@@ -2,6 +2,11 @@
 
 Sistema de tranca eletrônica baseado em dois ESP32 que se comunicam via MQTT. Um lê cartões RFID e aciona a fechadura; o outro monitora a porta e dispara um alarme se ela for aberta sem autorização. Todas as tentativas de acesso são registradas em um banco PostgreSQL.
 
+## Integrantes
+
+- Arthur Lima
+- Mayanne Gomes
+
 ## Visão geral
 
 ```
